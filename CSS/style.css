@@ -1,0 +1,17 @@
+.hidden {
+    display: none;
+}
+
+#clock {
+    text-align: center;
+}
+
+#login-form .hidden {text-align: center; }
+
+.greeting {
+    text-align: center;
+}
+
+#quote {
+    text-align: center;
+}
